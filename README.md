@@ -1,2 +1,2 @@
 # simple-calculator-app
-Repository for a basic calculator app with operations like addition, subtraction, multiplication, and division.
+This repository contains a simple calculator application developed using React Native, featuring basic arithmetic operations.
